@@ -433,6 +433,10 @@ nav .content .links li label:hover{
     margin-top: 15px;
     letter-spacing: 1px;
 }
+.rating i{
+    color: orange;
+    margin-top: 5px;
+}
 .rate i{
     color: orange;
     margin-top: 5px;
@@ -441,7 +445,7 @@ nav .content .links li label:hover{
     margin-top: 10px;
     font-size: 18px;
 }
- .card-body button{
+ .card-body a{
     width: 130px;
     height: 30px;
     margin-top: 10px;
